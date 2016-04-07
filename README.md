@@ -1,3 +1,5 @@
+Problem description
+
 Given Lastfm dataset: http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-1K.tar.gz 
 Build REST web service providing endpoints for:
 
@@ -10,3 +12,5 @@ Build REST web service providing endpoints for:
 7. Given a user ID, recommend songs (or artists) that the user has not listened to yet, but might want to.
 
 *) a session is defined as one or more songs played by a particular user, where each song is started within 20 minutes of the previous song's start time.
+
+Instruction about building, runing, limitations, etc, provided in the file 'instructions.rtf'
